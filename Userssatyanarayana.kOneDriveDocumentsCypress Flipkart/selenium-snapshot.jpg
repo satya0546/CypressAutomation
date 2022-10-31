@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+
+<html>
+  <head>
+    <script src="/js/vendor/298279967.js"></script>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>The Internet</title>
+    <link href="/css/app.css" rel="stylesheet">
+    <link href="/css/font-awesome.css" rel="stylesheet">
+    <script src="/js/vendor/jquery-1.11.3.min.js"></script>
+    <script src="/js/vendor/jquery-ui-1.11.4/jquery-ui.js"></script>
+    <script src="/js/foundation/foundation.js"></script>
+    <script src="/js/foundation/foundation.alerts.js"></script>
+    <script>
+      $(document).foundation();
+    </script>
+  </head>
+  <body>
+    <div class="row">
+      <div id="flash-messages" class="large-12 columns">
+      
+        
+      
+        
+      
+        
+      
+      </div>
+    </div>
+    <div class="row">
+      <a href="https://github.com/tourdedave/the-internet"><img style="position: absolute; top: 0; right: 0; border: 0;" src="/img/forkme_right_green_007200.png" alt="Fork me on GitHub"></a>
+      <div id="content" class="large-12 columns">
+        <div class="example">
+  <h3>File Downloader</h3>
+  
+    <a href="download/some-file.txt">some-file.txt</a>
+    </br>
+  
+    <a href="download/Rollin.mp3">Rollin.mp3</a>
+    </br>
+  
+    <a href="download/ДОКАТЕСТ.txt">ДОКАТЕСТ.txt</a>
+    </br>
+  
+    <a href="download/selenium-snapshot.jpg">selenium-snapshot.jpg</a>
+    </br>
+  
+    <a href="download/A_Real-time_Driving_Drowsiness_Detection_Algorithm_With_Individual_Differences_Consideration.pdf">A_Real-time_Driving_Drowsiness_Detection_Algorithm_With_Individual_Differences_Consideration.pdf</a>
+    </br>
+  
+    <a href="download/JustificatifETR.jpg">JustificatifETR.jpg</a>
+    </br>
+  
+    <a href="download/README.md">README.md</a>
+    </br>
+  
+    <a href="download/pradeep photo.jpeg">pradeep photo.jpeg</a>
+    </br>
+  
+    <a href="download/5mb script.xml">5mb script.xml</a>
+    </br>
+  
+    <a href="download/avatar.jpg">avatar.jpg</a>
+    </br>
+  
+    <a href="download/webdriverIO.png">webdriverIO.png</a>
+    </br>
+  
+    <a href="download/Autify.png">Autify.png</a>
+    </br>
+  
+    <a href="download/deer.png">deer.png</a>
+    </br>
+  
+    <a href="download/Profile Image (1).png">Profile Image (1).png</a>
+    </br>
+  
+    <a href="download/dog.JPG">dog.JPG</a>
+    </br>
+  
+    <a href="download/LambdaTest.txt">LambdaTest.txt</a>
+    </br>
+  
+    <a href="download/NSI (5).xlsx">NSI (5).xlsx</a>
+    </br>
+  
+    <a href="download/sample.pdf">sample.pdf</a>
+    </br>
+  
+    <a href="download/API.txt">API.txt</a>
+    </br>
+  
+    <a href="download/error.png">error.png</a>
+    </br>
+  
+    <a href="download/163授权码.txt">163授权码.txt</a>
+    </br>
+  
+    <a href="download/upload_file.xlsx">upload_file.xlsx</a>
+    </br>
+  
+    <a href="download/LavanyaParitala_qa.docx">LavanyaParitala_qa.docx</a>
+    </br>
+  
+    <a href="download/sample.png">sample.png</a>
+    </br>
+  
+    <a href="download/Payment_Receipt.pdf">Payment_Receipt.pdf</a>
+    </br>
+  
+    <a href="download/sample-zip-file.zip">sample-zip-file.zip</a>
+    </br>
+  
+    <a href="download/upexlogo.png">upexlogo.png</a>
+    </br>
+  
+    <a href="download/Grammarly.Desktop.exe">Grammarly.Desktop.exe</a>
+    </br>
+  
+    <a href="download/chromedriver.exe">chromedriver.exe</a>
+    </br>
+  
+    <a href="download/[Torrent-Soft.Pro]_ePaperPress PTLens v9.2.torrent">[Torrent-Soft.Pro]_ePaperPress PTLens v9.2.torrent</a>
+    </br>
+  
+    <a href="download/region.excel2003.xml">region.excel2003.xml</a>
+    </br>
+  
+    <a href="download/luminoslogo.png">luminoslogo.png</a>
+    </br>
+  
+    <a href="download/test.txt">test.txt</a>
+    </br>
+  
+    <a href="download/Screenshot 2022-09-30 at 6.46.51 PM.png">Screenshot 2022-09-30 at 6.46.51 PM.png</a>
+    </br>
+  
+    <a href="download/dog.jpg">dog.jpg</a>
+    </br>
+  
+    <a href="download/pkg.jpeg">pkg.jpeg</a>
+    </br>
+  
+    <a href="download/Selenium Img.jpg">Selenium Img.jpg</a>
+    </br>
+  
+    <a href="download/forest.jpg">forest.jpg</a>
+    </br>
+  
+    <a href="download/YahooTestScenario.txt">YahooTestScenario.txt</a>
+    </br>
+  
+    <a href="download/1.png">1.png</a>
+    </br>
+  
+    <a href="download/Edge.dat">Edge.dat</a>
+    </br>
+  
+    <a href="download/Test PDF File.pdf">Test PDF File.pdf</a>
+    </br>
+  
+    <a href="download/Doaa_Saber_Resume_05-10-2022-01-18-03.pdf">Doaa_Saber_Resume_05-10-2022-01-18-03.pdf</a>
+    </br>
+  
+    <a href="download/selenium-screenshot-1.png">selenium-screenshot-1.png</a>
+    </br>
+  
+    <a href="download/person.png">person.png</a>
+    </br>
+  
+    <a href="download/pngtree-rustic-flower-graphic-png-image_2368863.jpg">pngtree-rustic-flower-graphic-png-image_2368863.jpg</a>
+    </br>
+  
+    <a href="download/social-blog-what-to-expect-with-selenium-2.jpg">social-blog-what-to-expect-with-selenium-2.jpg</a>
+    </br>
+  
+    <a href="download/apitest.txt">apitest.txt</a>
+    </br>
+  
+    <a href="download/Screenshot (17).png">Screenshot (17).png</a>
+    </br>
+  
+    <a href="download/Document.txt">Document.txt</a>
+    </br>
+  
+</div>
+
+      </div>
+    </div>
+    <div id='page-footer' class="row">
+      <div class="large-4 large-centered columns">
+        <hr>
+        <div style="text-align: center;">Powered by <a target="_blank" href="http://elementalselenium.com/">Elemental Selenium</a></div>
+      </div>
+    </div>
+  </body>
+</html>
